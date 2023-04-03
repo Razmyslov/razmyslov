@@ -1,7 +1,4 @@
 
-<div style="text-align: center; margin-right: 35px;margin-bottom: 20px;">
-    <img src="https://media.tenor.com/wqIgGpGlBBoAAAAi/ok-letter-x.gif" width="100">
-</div>
 <div style="text-align: center; margin-top: 10px">
     <a href="https://t.me/reabletop"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"></a>
     <a href="mailto:reabletop@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
