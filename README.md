@@ -7,7 +7,7 @@
 
 ---
 ###  About Me :
-I am backend developer in Russia
+I am middle backend developer in Russia
 
 - :school: I am a third-year student at the Sosnogorsk Technological College
 
