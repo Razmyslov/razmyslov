@@ -1,19 +1,44 @@
-### Hi there 👋
 
-<!--
-**Razmyslov/razmyslov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="text-align: center; margin-right: 35px;margin-bottom: 20px;">
+    <img src="https://media.tenor.com/wqIgGpGlBBoAAAAi/ok-letter-x.gif" width="100">
+</div>
+<div style="text-align: center; margin-top: 10px">
+    <a href="https://t.me/reabletop"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"></a>
+    <a href="mailto:reabletop@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
+    <a href="https://vk.com/reabletop"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" height="30"></a>
+</div>
 
-Here are some ideas to get you started:
+---
+###  About Me :
+I am backend developer in Russia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :school: I am a third-year student at the Sosnogorsk Technological College
+
+- :zap: In my free time I read technical literature, play chess and volleyball
+
+- :mailbox: How to reach me:  <a href="https://t.me/reabletop"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="15" style="margin-left:10px"></a>
 
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+---
+
+### Languages and Tools :
+
+<div>
+    <img src="skills/javascript.jpg" alt="" style="width: 50px; height: 50px">
+    <img src="skills/typescript.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/nodejs.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/php.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/html.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/css.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/sass.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/vue.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/nestjs.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/express.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/webpack.svg" alt="" style="width: 50px; height: 50px">
+    <img src="skills/graphql.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/sql.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/mysql.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/mariadb.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/mongo.png" alt="" style="width: 50px; height: 50px">
+    <img src="skills/redis.webp" alt="" style="width: 50px; height: 50px">
+</div>
